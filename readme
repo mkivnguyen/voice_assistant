@@ -1,0 +1,8 @@
+packages that will need to be install for program to work
+
+pip install tensorflow
+pip install speech_recognition
+pip install pywhatkit
+pip install numpy
+pip install playsound
+pip install gtts
